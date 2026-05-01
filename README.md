@@ -14,7 +14,7 @@
 - Beginner level: QGIS (opening satellite images, working with attributes, basic symbology)
 - Understanding of coordinate systems and formats (Shapefile, GeoTIFF)
 - Interest in remote sensing (Sentinel-2, Landsat)
-<img align="right" src="https://github.com/GoncharovaAD/readme/blob/main/satellite fusee GIF by CNES.gif" width = 400 alt="Gif" />
+<img align="right" src="https://github.com/GoncharovaAD/GoncharovaAD/blob/main/satellite fusee GIF by CNES.gif" width = 400 alt="Gif" />
 
 **Programming & automation** 
 

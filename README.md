@@ -1,20 +1,20 @@
-
+<img src="https://github.com/GoncharovaAD/GoncharovaAD/blob/main/nasa-yZygONrUBe8-unsplash.jpg" height = 400 alt="Cover" />
 
 <h1>👋 Hi! I'm Anna</h1>
 
-📍 From Russia, currently living in Serbia  
+💼 Technical Writer  at an IT company for 2+ years  
 🎯 Goal: become a **GIS specialist** with a focus on satellite data analysis :earth_africa:  
-💼 Currently: Technical Writer  at an IT company for 2+ years
 
 ---
 
-## 🧠 My skills
+## 🧠 My skills  
+
+<img align="right" src="https://github.com/GoncharovaAD/GoncharovaAD/blob/main/satellite fusee GIF by CNES.gif" width = 400 alt="Gif" />
 
 **GIS & spatial data:**
 - Beginner level: QGIS (opening satellite images, working with attributes, basic symbology)
 - Understanding of coordinate systems and formats (Shapefile, GeoTIFF)
 - Interest in remote sensing (Sentinel-2, Landsat)
-<img align="right" src="https://github.com/GoncharovaAD/GoncharovaAD/blob/main/satellite fusee GIF by CNES.gif" width = 400 alt="Gif" />
 
 **Programming & automation** 
 
@@ -26,13 +26,6 @@
 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
-
-
-**Languages:**
-- Russian (native)
-- English (C1)
-- Serbian (A1)
-- German (A0, learning)
 
 ---
 
@@ -72,6 +65,14 @@ Long-term goal: work in Earth Observation, help analyze environmental and climat
 - **Paramedic** (secondary medical education)
 - **Clinical Data Manager** — worked at BIOCAD
 - In progress: NASA ARSET "Fundamentals of Remote Sensing", API documentation course, CS50
+
+---
+
+**Languages:**
+- Russian (native)
+- English (C1)
+- Serbian (A1)
+- German (A0, learning)
 
 ---
 

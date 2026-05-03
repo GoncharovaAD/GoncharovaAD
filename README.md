@@ -5,6 +5,7 @@
 💼 Technical Writer  at an IT company for 2+ years  
 🎯 Goal: become a **GIS specialist** with a focus on satellite data analysis :earth_africa:  
 
+![](https://komarev.com/ghpvc/?username=GoncharovaAD)
 ---
 
 ## 🧠 My skills  

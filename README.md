@@ -5,6 +5,17 @@
 💼 Technical Writer  at an IT company for 2+ years  
 🎯 Goal: become a **GIS specialist** with a focus on satellite data analysis :earth_africa: 
 
+![QGIS](https://img.shields.io/badge/QGIS-3.34-brightgreen?logo=qgis)
+![Swagger](https://img.shields.io/badge/Swagger-UI-85EA2D?logo=swagger)
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown)  
+
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence)
+
+
 <img align="right" src="https://github.com/GoncharovaAD/GoncharovaAD/blob/main/cat space GIF.gif" width = 300 alt="Gif" />
 
 ![](https://komarev.com/ghpvc/?username=GoncharovaAD)
@@ -15,29 +26,27 @@
 ## 🧠 My skills
 
 **Technical Writing**
-- Experience documenting complex IT products
-- API documentation: understanding of OpenAPI (Swagger), JSON, and REST principles
-- Tools: Confluence, Jira, Markdown, Git, Swagger UI, Postman (basics)
-- Creating interactive documentation (see my [API docs project](https://goncharovaad.github.io/api-docs/))
-- Technical storytelling: making complex topics clear and engaging
+- Experience documenting complex IT products.
+- API documentation: understanding of OpenAPI (Swagger), JSON, and REST principles.
+- Tools: Confluence, Jira, Markdown, Git, Swagger UI, Postman (basics).
+- Creating interactive documentation (see my [API docs project](https://goncharovaad.github.io/api-docs/)).
+- Technical storytelling: making complex topics clear and engaging.
 
 **GIS & spatial data**
-- Beginner level: QGIS (opening satellite images, working with attributes, basic symbology)
-- Understanding of coordinate systems and formats (Shapefile, GeoTIFF)
-- Interest in remote sensing (Sentinel-2, Landsat)
-- In progress: Python for geospatial analysis (GeoPandas), NASA ARSET course
-
-**Programming & automation skills** 
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,mysql,github,postman)](https://skillicons.dev)
+- Beginner level: QGIS (opening satellite images, working with attributes, basic symbology).
+- Understanding of coordinate systems and formats (Shapefile, GeoTIFF).
+- Interest in remote sensing (Sentinel-2, Landsat).
+- In progress: Python for geospatial analysis (GeoPandas), NASA ARSET course.
 
 ---
 
 ## 📂 Projects
 
-1. **API Documentation**
-   - Skills: Technical Writing, Swagger UI, API
-   - 🔗 [Repository](https://github.com/GoncharovaAD/api-docs)
+1. ### [API Documentation Project](https://github.com/GoncharovaAD/api-docs)
+*   Interactive API documentation built with **Swagger UI**.
+*   Based on the **OpenWeatherMap API** (One Call API 3.0).
+*   **Skills:** Technical Writing, Swagger UI, OpenAPI, YAML.
+*   **Live Demo:** [View the interactive API docs](https://goncharovaad.github.io/api-docs/)
 
 <!--
 1. **[Project name, e.g., "Map of Europe"]**
@@ -58,10 +67,10 @@
 ## 🛰️ What I'm working on right now
 
 My main focus is **GIS + satellite data + Python**. My plan for the next few months:
-- Complete the NASA ARSET course on remote sensing
-- Build 2-3 projects in QGIS (image analysis, working with vector data)
-- Write a Python script that pulls satellite data via API and creates simple maps
-- Start learning PostGIS (spatial databases)
+- complete the NASA ARSET course on remote sensing;
+- build 2-3 projects in QGIS (image analysis, working with vector data);
+- write a Python script that pulls satellite data via API and creates simple maps;
+- start learning PostGIS (spatial databases).
 
 Long-term goal: work in Earth Observation, help analyze environmental and climate data, and eventually get into the space industry.
 
@@ -72,8 +81,8 @@ Long-term goal: work in Earth Observation, help analyze environmental and climat
 - **Applied Meteorology** (Master's degree)
 - **Paramedic** (secondary medical education)
 - In progress:
-  - NASA ARSET "Fundamentals of Remote Sensing", API documentation course, CS50
-  - [Mastering Geospatial Data Science: From Beginner to Expert Specialization](https://www.coursera.org/specializations/mastering-geospatial-data-science-from-beginner-to-expert)
+  - NASA ARSET "Fundamentals of Remote Sensing", API documentation course, CS50;
+  - [Mastering Geospatial Data Science: From Beginner to Expert Specialization](https://www.coursera.org/specializations/mastering-geospatial-data-science-from-beginner-to-expert).
 
 ---
 
@@ -82,7 +91,6 @@ Long-term goal: work in Earth Observation, help analyze environmental and climat
 - English (C1)
 - Serbian (A1)
 - German (A0, learning)
-
 ---
 
 ## 📫 Contact

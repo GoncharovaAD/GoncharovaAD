@@ -1,6 +1,6 @@
 <!-- <img src="https://github.com/GoncharovaAD/GoncharovaAD/blob/main/nasa-yZygONrUBe8-unsplash.jpg" height = 400 alt="Cover" /> -->
 
-<h1>👋 Hi! I'm Anna</h1>
+<h1>👋 Hi! I'm Anna, and welcome to my page!</h1>
 
 💼 Technical Writer  at an IT company for 2+ years  
 🎯 Goal: become a **GIS specialist** with a focus on satellite data analysis :earth_africa: 
@@ -59,7 +59,7 @@
 
 My main focus is **GIS + satellite data + Python**. My plan for the next few months:
 - Complete the NASA ARSET course on remote sensing
-- Build 2–3 projects in QGIS (image analysis, working with vector data)
+- Build 2-3 projects in QGIS (image analysis, working with vector data)
 - Write a Python script that pulls satellite data via API and creates simple maps
 - Start learning PostGIS (spatial databases)
 

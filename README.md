@@ -1,32 +1,57 @@
-<img src="https://github.com/GoncharovaAD/GoncharovaAD/blob/main/nasa-yZygONrUBe8-unsplash.jpg" height = 400 alt="Cover" />
+<!-- <img src="https://github.com/GoncharovaAD/GoncharovaAD/blob/main/nasa-yZygONrUBe8-unsplash.jpg" height = 400 alt="Cover" /> -->
 
 <h1>👋 Hi! I'm Anna</h1>
 
 💼 Technical Writer  at an IT company for 2+ years  
 🎯 Goal: become a **GIS specialist** with a focus on satellite data analysis :earth_africa:  
 
-![](https://komarev.com/ghpvc/?username=GoncharovaAD)
+<!--![](https://komarev.com/ghpvc/?username=GoncharovaAD) -->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoncharovaAD)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ## 🧠 My skills  
 
 <img align="right" src="https://github.com/GoncharovaAD/GoncharovaAD/blob/main/satellite fusee GIF by CNES.gif" width = 400 alt="Gif" />
 
-**GIS & spatial data:**
+**Technical Writing**
+- Experience documenting complex IT products
+- API documentation: understanding of OpenAPI (Swagger), JSON, and REST principles
+- Tools: Confluence, Jira, Markdown, Git, Swagger UI, Postman (basics)
+- Creating interactive documentation (see my [API docs project](https://goncharovaad.github.io/api-docs/))
+- Technical storytelling: making complex topics clear and engaging
+
+**GIS & spatial data**
 - Beginner level: QGIS (opening satellite images, working with attributes, basic symbology)
 - Understanding of coordinate systems and formats (Shapefile, GeoTIFF)
 - Interest in remote sensing (Sentinel-2, Landsat)
+- In progress: Python for geospatial analysis (GeoPandas), NASA ARSET course
 
-**Programming & automation** 
+**Programming & automation skills** 
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,mysql,github,postman)](https://skillicons.dev)
 
-**Technical writing** 
+---
 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
+## 📂 Projects
+
+1. **API Documentation**
+   - Skills: Technical Writing, Swagger UI, API
+   - 🔗 [Repository](https://github.com/GoncharovaAD/api-docs)
+
+<!--
+1. **[Project name, e.g., "Map of Europe"]**
+   - QGIS, Natural Earth Data
+   - 🔗 [Link to repo or screenshot]
+
+2. **[Project name, e.g., "NDVI from Sentinel-2"]**
+   - QGIS, Copernicus satellite data
+   - 🔗 [Link]
+
+3. **[API + Python example]**
+   - Python, requests, pandas
+   - 🔗 [Link]
+-->
 
 ---
 
@@ -41,31 +66,14 @@ My main focus is **GIS + satellite data + Python**. My plan for the next few mon
 Long-term goal: work in Earth Observation, help analyze environmental and climate data, and eventually get into the space industry.
 
 ---
-<!--
-## 📂 Projects
-
-1. **[Project name, e.g., "Map of Europe"]**
-   - QGIS, Natural Earth Data
-   - 🔗 [Link to repo or screenshot]
-
-2. **[Project name, e.g., "NDVI from Sentinel-2"]**
-   - QGIS, Copernicus satellite data
-   - 🔗 [Link]
-
-3. **[API + Python example]**
-   - Python, requests, pandas
-   - 🔗 [Link]
-
-*(If you don't have projects yet, just remove this section or keep it as a placeholder.)*
----
--->
 
 ## 🎓 Education & certificates
 
-- **Applied Meteorology** (Bachelor's degree)
+- **Applied Meteorology** (Master's degree)
 - **Paramedic** (secondary medical education)
-- **Clinical Data Manager** — worked at BIOCAD
-- In progress: NASA ARSET "Fundamentals of Remote Sensing", API documentation course, CS50
+- In progress:
+  - NASA ARSET "Fundamentals of Remote Sensing", API documentation course, CS50
+  - [Mastering Geospatial Data Science: From Beginner to Expert Specialization](https://www.coursera.org/specializations/mastering-geospatial-data-science-from-beginner-to-expert)
 
 ---
 

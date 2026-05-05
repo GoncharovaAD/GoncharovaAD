@@ -3,16 +3,16 @@
 <h1>👋 Hi! I'm Anna</h1>
 
 💼 Technical Writer  at an IT company for 2+ years  
-🎯 Goal: become a **GIS specialist** with a focus on satellite data analysis :earth_africa:  
+🎯 Goal: become a **GIS specialist** with a focus on satellite data analysis :earth_africa: 
 
-<!--![](https://komarev.com/ghpvc/?username=GoncharovaAD) -->
+<img align="right" src="https://github.com/GoncharovaAD/GoncharovaAD/blob/main/cat space GIF.gif" width = 300 alt="Gif" />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoncharovaAD)](https://github.com/anuraghazra/github-readme-stats)
+![](https://komarev.com/ghpvc/?username=GoncharovaAD)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=GoncharovaAD&theme=onedark)](https://git.io/streak-stats)
 ---
 
-## 🧠 My skills  
-
-<img align="right" src="https://github.com/GoncharovaAD/GoncharovaAD/blob/main/satellite fusee GIF by CNES.gif" width = 400 alt="Gif" />
+## 🧠 My skills
 
 **Technical Writing**
 - Experience documenting complex IT products

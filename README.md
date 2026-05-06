@@ -15,15 +15,14 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence)
 
-
-<img align="right" src="https://github.com/GoncharovaAD/GoncharovaAD/blob/main/cat space GIF.gif" width = 300 alt="Gif" />
-
 ![](https://komarev.com/ghpvc/?username=GoncharovaAD)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=GoncharovaAD&theme=onedark)](https://git.io/streak-stats)
+<!--[![GitHub Streak](https://streak-stats.demolab.com?user=GoncharovaAD&theme=onedark)](https://git.io/streak-stats)-->
 ---
 
 ## 🧠 My skills
+
+<img align="right" src="https://github.com/GoncharovaAD/GoncharovaAD/blob/main/cat space GIF.gif" width = 300 alt="Gif" />
 
 **Technical Writing**
 - Experience documenting complex IT products.

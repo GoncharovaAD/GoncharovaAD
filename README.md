@@ -96,7 +96,7 @@ Long-term goal: work in Earth Observation, help analyze environmental and climat
 
 - [LinkedIn](www.linkedin.com/in/anna-goncharova-83abb1230)
 - [GitHub](https://github.com/GoncharovaAD) (you're already here!)
-- Telegram: [@Hectopascal999]
+- Telegram: [@Hectopascal999](https://t.me/Hectopascal999)
 
 🗺️ Open to Junior GIS Analyst / Geospatial Data Analyst roles, especially remote.
 

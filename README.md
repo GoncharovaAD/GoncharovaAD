@@ -3,13 +3,10 @@
 <h1>👋 Hi! I'm Anna, and welcome to my page!</h1>
 
 💼 Technical Writer  at an IT company for 2+ years  
-🎯 Goal: become a **GIS specialist** with a focus on satellite data analysis :earth_africa: 
-
+🎯 Goal: become a **Data Engineer** (GIS Focused)
+    
 ![QGIS](https://img.shields.io/badge/QGIS-3.34-brightgreen?logo=qgis)
-![Swagger](https://img.shields.io/badge/Swagger-UI-85EA2D?logo=swagger)
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown)  
-
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira)
@@ -22,7 +19,7 @@
 
 ## 🧠 My skills
 
-<img align="right" src="https://github.com/GoncharovaAD/GoncharovaAD/blob/main/cat space GIF.gif" width = 300 alt="Gif" />
+<!--<img align="right" src="https://github.com/GoncharovaAD/GoncharovaAD/blob/main/cat space GIF.gif" width = 300 alt="Gif" />-->
 
 **Technical Writing**
 - Experience documenting complex IT products.
@@ -31,7 +28,7 @@
 - Creating interactive documentation (see my [API docs project](https://goncharovaad.github.io/api-docs/)).
 - Technical storytelling: making complex topics clear and engaging.
 
-**GIS & spatial data**
+**GIS & Data Engineering**
 - Beginner level: QGIS (opening satellite images, working with attributes, basic symbology).
 - Understanding of coordinate systems and formats (Shapefile, GeoTIFF).
 - Interest in remote sensing (Sentinel-2, Landsat).
@@ -47,6 +44,10 @@
 *   **Skills:** Technical Writing, Swagger UI, OpenAPI, YAML.
 *   **Live Demo:** [View the interactive API docs](https://goncharovaad.github.io/api-docs/)
 
+2. ### [Arduino Meteostation](https://github.com/GoncharovaAD/meteostation-arduino)
+* Documented DIY project with Arduino Mega 2560.
+* Meteostation with DH11 sensor for temperature and humidity measurement.
+* **Skills:** Technical Writing, Engineering, C++.
 <!--
 1. **[Project name, e.g., "Map of Europe"]**
    - QGIS, Natural Earth Data
@@ -66,10 +67,10 @@
 ## 🛰️ What I'm working on right now
 
 My main focus is **GIS + satellite data + Python**. My plan for the next few months:
+- strong Python and SQL;
 - complete the NASA ARSET course on remote sensing;
 - build 2-3 projects in QGIS (image analysis, working with vector data);
-- write a Python script that pulls satellite data via API and creates simple maps;
-- start learning PostGIS (spatial databases).
+- write a Python script that pulls satellite data via API and creates simple maps.
 
 Long-term goal: work in Earth Observation, help analyze environmental and climate data, and eventually get into the space industry.
 
@@ -80,7 +81,7 @@ Long-term goal: work in Earth Observation, help analyze environmental and climat
 - **Applied Meteorology** (Master's degree)
 - **Paramedic** (secondary medical education)
 - In progress:
-  - NASA ARSET "Fundamentals of Remote Sensing", API documentation course, CS50;
+  - NASA ARSET "Fundamentals of Remote Sensing", API documentation course, CS50P;
   - [Mastering Geospatial Data Science: From Beginner to Expert Specialization](https://www.coursera.org/specializations/mastering-geospatial-data-science-from-beginner-to-expert).
 
 ---

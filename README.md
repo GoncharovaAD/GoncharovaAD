@@ -3,9 +3,8 @@
 <h1>👋 Hi! I'm Anna, and welcome to my page!</h1>
 
 💼 Technical Writer  at an IT company for 2+ years  
-🎯 Goal: become a **Data Engineer** (GIS Focused)
+🎯 Goal: become a **UX Writer**
     
-![QGIS](https://img.shields.io/badge/QGIS-3.34-brightgreen?logo=qgis)
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
@@ -20,19 +19,11 @@
 ## 🧠 My skills
 
 <!--<img align="right" src="https://github.com/GoncharovaAD/GoncharovaAD/blob/main/cat space GIF.gif" width = 300 alt="Gif" />-->
-
-**Technical Writing**
 - Experience documenting complex IT products.
 - API documentation: understanding of OpenAPI (Swagger), JSON, and REST principles.
 - Tools: Confluence, Jira, Markdown, Git, Swagger UI, Postman (basics).
 - Creating interactive documentation (see my [API docs project](https://goncharovaad.github.io/api-docs/)).
 - Technical storytelling: making complex topics clear and engaging.
-
-**GIS & Data Engineering**
-- Beginner level: QGIS (opening satellite images, working with attributes, basic symbology).
-- Understanding of coordinate systems and formats (Shapefile, GeoTIFF).
-- Interest in remote sensing (Sentinel-2, Landsat).
-- In progress: Python for geospatial analysis (GeoPandas), NASA ARSET course.
 
 ---
 
@@ -62,7 +53,7 @@
    - 🔗 [Link]
 -->
 
----
+<!--
 
 ## 🛰️ What I'm working on right now
 
@@ -74,16 +65,12 @@ My main focus is **GIS + satellite data + Python**. My plan for the next few mon
 
 Long-term goal: work in Earth Observation, help analyze environmental and climate data, and eventually get into the space industry.
 
----
+-->
 
 ## 🎓 Education & certificates
 
 - **Applied Meteorology** (Master's degree)
 - **Paramedic** (secondary medical education)
-- In progress:
-  - NASA ARSET "Fundamentals of Remote Sensing", API documentation course, CS50P;
-  - [Mastering Geospatial Data Science: From Beginner to Expert Specialization](https://www.coursera.org/specializations/mastering-geospatial-data-science-from-beginner-to-expert).
-
 ---
 
 **Languages:**
@@ -98,8 +85,6 @@ Long-term goal: work in Earth Observation, help analyze environmental and climat
 - [LinkedIn](www.linkedin.com/in/anna-goncharova-83abb1230)
 - [GitHub](https://github.com/GoncharovaAD) (you're already here!)
 - Telegram: [@Hectopascal999](https://t.me/Hectopascal999)
-
-🗺️ Open to Junior GIS Analyst / Geospatial Data Analyst roles, especially remote.
 
 ---
 

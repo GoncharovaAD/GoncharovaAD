@@ -34,7 +34,13 @@
 *   **Skills:** Technical Writing, Swagger UI, OpenAPI, YAML.
 *   **Live Demo:** [View the interactive API docs](https://goncharovaad.github.io/api-docs/)
 
-2. ### [Arduino Meteostation](https://github.com/GoncharovaAD/meteostation-arduino)
+2. ### [DoC_Tutorial](https://github.com/GoncharovaAD/DoC_Tutorial)
+* created a documentation website using MkDocs and Markdown, including:
+  *  navigation structure
+  *  content organization
+  *  Git-based version control.
+
+3. ### [Arduino Meteostation](https://github.com/GoncharovaAD/meteostation-arduino)
 * Documented DIY project with Arduino Mega 2560.
 * Meteostation with DH11 sensor for temperature and humidity measurement.
 * **Skills:** Technical Writing, Engineering, C++.

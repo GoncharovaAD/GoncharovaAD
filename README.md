@@ -28,6 +28,15 @@
 
 ## 📂 Projects
 
+## Main project
+## [Celestia-IoT](https://github.com/GoncharovaAD/Celestia-IoT)
+*   An Arduino-powered IoT dashboard for tracking ISS location and local weather data with a web interface. 
+*   Based on the **OpenWeatherMap API** (One Call API 3.0) and IoT Arduino.
+*   **Skills:** Engineering, API, GitHub, Python, PostgreSQL
+*   **Live Demo:** [View the interactive docs](https://goncharovaad.github.io/Celestia-IoT/)
+
+
+## Additional projects
 1. ### [API Documentation Project](https://github.com/GoncharovaAD/api-docs)
 *   Interactive API documentation built with **Swagger UI**.
 *   Based on the **OpenWeatherMap API** (One Call API 3.0).

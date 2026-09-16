@@ -80,18 +80,6 @@ My main focus is **GIS + satellite data + Python**. My plan for the next few mon
 Long-term goal: work in Earth Observation, help analyze environmental and climate data, and eventually get into the space industry.
 
 -->
-
-## 🎓 Education & certificates
-
-- **Applied Meteorology** (Master's degree)
-- **Paramedic** (secondary medical education)
----
-
-**Languages:**
-- Russian (native)
-- English (C1)
-- Serbian (A1)
-- German (A0, learning)
 ---
 
 ## 📫 Contact
@@ -99,8 +87,3 @@ Long-term goal: work in Earth Observation, help analyze environmental and climat
 - [LinkedIn](www.linkedin.com/in/anna-goncharova-83abb1230)
 - [GitHub](https://github.com/GoncharovaAD) (you're already here!)
 - Telegram: [@Hectopascal999](https://t.me/Hectopascal999)
-
----
-
-⭐ **My approach:**  
-I'm not afraid to start something new. I've worked in healthcare, science, and IT. I'm ready to learn every day.

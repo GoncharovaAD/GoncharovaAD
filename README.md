@@ -1,8 +1,8 @@
 <!-- <img src="https://github.com/GoncharovaAD/GoncharovaAD/blob/main/nasa-yZygONrUBe8-unsplash.jpg" height = 400 alt="Cover" /> -->
 
-<h1>👋 Hi! I'm Anna, and welcome to my page!</h1>
+<h1>Hi! I'm Anna, and welcome to my page!</h1>
 
-💼 Technical Writer  at an IT company for 2+ years
+Technical Writer  at an IT company for 2+ years
     
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
@@ -15,8 +15,7 @@
 <!--[![GitHub Streak](https://streak-stats.demolab.com?user=GoncharovaAD&theme=onedark)](https://git.io/streak-stats)-->
 ---
 
-## 🧠 My skills
-
+## My skills
 <!--<img align="right" src="https://github.com/GoncharovaAD/GoncharovaAD/blob/main/cat space GIF.gif" width = 300 alt="Gif" />-->
 - Experience documenting complex IT products.
 - API documentation: understanding of OpenAPI (Swagger), JSON, and REST principles.
@@ -26,7 +25,7 @@
 
 ---
 
-## 📂 Projects
+## Projects
 
 ## Main project
 ## [Celestia-IoT](https://github.com/GoncharovaAD/Celestia-IoT)
@@ -82,8 +81,7 @@ Long-term goal: work in Earth Observation, help analyze environmental and climat
 -->
 ---
 
-## 📫 Contact
+## Contact
 
 - [LinkedIn](www.linkedin.com/in/anna-goncharova-83abb1230)
-- [GitHub](https://github.com/GoncharovaAD) (you're already here!)
 - Telegram: [@Hectopascal999](https://t.me/Hectopascal999)

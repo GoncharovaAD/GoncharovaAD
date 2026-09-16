@@ -20,7 +20,7 @@ Technical Writer  at an IT company for 2+ years
 - Experience documenting complex IT products.
 - API documentation: understanding of OpenAPI (Swagger), JSON, and REST principles.
 - Tools: Confluence, Jira, Markdown, Git, Swagger UI, Postman (basics).
-- Creating interactive documentation (see my [API docs project](https://goncharovaad.github.io/api-docs/)).
+- Creating interactive documentation (see my [Celestia-IoT docs project](https://goncharovaad.github.io/Celestia-IoT/)).
 - Technical storytelling: making complex topics clear and engaging.
 
 ---

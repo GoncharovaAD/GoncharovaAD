@@ -12,9 +12,11 @@ Meteorologist (MSc), paramedic and engineering enthusiast
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence)
 
-![](https://komarev.com/ghpvc/?username=GoncharovaAD)
+![](https://komarev.com/ghpvc/?username=GoncharovaAD)  
 
-<!--[![GitHub Streak](https://streak-stats.demolab.com?user=GoncharovaAD&theme=onedark)](https://git.io/streak-stats)-->
+[![Scheduled Weather Script](https://github.com/GoncharovaAD/Celestia-IoT/actions/workflows/daily_run_python.yml/badge.svg)](https://github.com/GoncharovaAD/Celestia-IoT/actions/workflows/daily_run_python.yml)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=GoncharovaAD&theme=onedark)](https://git.io/streak-stats)
 ---
 
 ## My skills

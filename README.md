@@ -2,7 +2,7 @@
 
 <h1>Hi! I'm Anna, and welcome to my page!</h1>
 
-Technical Writer  at an IT company for 2+ years
+Technical Writer  at an IT company for 2+ years  
 Meteorologist (MSc), paramedic and engineering enthusiast
 
     

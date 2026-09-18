@@ -3,6 +3,8 @@
 <h1>Hi! I'm Anna, and welcome to my page!</h1>
 
 Technical Writer  at an IT company for 2+ years
+Meteorologist (MSc), paramedic and engineering enthusiast
+
     
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)

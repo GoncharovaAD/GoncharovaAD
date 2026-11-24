@@ -52,11 +52,10 @@ Meteorologist (MSc), paramedic and engineering enthusiast
   *  content organization
   *  Git-based version control.
 
-3. ### [Arduino Meteostation](https://github.com/GoncharovaAD/meteostation-arduino)
+<!--3. ### [Arduino Meteostation](https://github.com/GoncharovaAD/meteostation-arduino)
 * Documented DIY project with Arduino Mega 2560.
 * Meteostation with DH11 sensor for temperature and humidity measurement.
 * **Skills:** Technical Writing, Engineering, C++.
-<!--
 1. **[Project name, e.g., "Map of Europe"]**
    - QGIS, Natural Earth Data
    - 🔗 [Link to repo or screenshot]
